@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynephtglu&label=Profile%20views&color=0e75b6&style=flat" alt="zeynephtglu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeynephtglu" alt="zeynephtglu" /></a> </p>
-
 - 🌱 I’m currently learning **Dart and Flutter**
 
 - 📫 How to reach me **zeynephotoglu34@gmail.com**
