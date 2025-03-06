@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynephtglu&label=Profile%20views&color=0e75b6&style=flat" alt="zeynephtglu" /> </p>
 
-- 🌱 I’m currently learning **Dart and Flutter**
-
 - 📫 How to reach me **zeynephotoglu34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
